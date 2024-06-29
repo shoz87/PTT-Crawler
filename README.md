@@ -9,7 +9,7 @@ PTT Crawler 是一個允許用戶從 PTT（批踢踢）網站爬取特定版面�
 
 ## 安裝與使用
 
-1. 下載並解壓該應用程式。
+1. [下載](https://github.com/shoz87/PTT-Crawler/releases/tag/Crawler) 並解壓該應用程式。
 2. 確保您的系統上安裝了所需的依賴庫,包括 Python 3.6+、requests、beautifulsoup4、openpyxl、pandas 和 tkinter。
 3. 執行 `ptt_crawler.exe` 文件即可啟動應用程式。
 4. 在 GUI 中選擇要爬取的版面、輸入頁數和關鍵字,然後點擊"開始爬取"按鈕。
